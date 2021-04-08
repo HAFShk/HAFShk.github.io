@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "C 프로그래밍"
+title                    : "hk's LAB"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jung hk"
-description              : "C 프로그래밍"
+description              : "michin ARC"
 url                      : "https://HAFShk.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "HAFShk/HAFShk.github.io"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Jung hk"
   avatar           : "/assets/images/a.png"
-  bio              : "AI 자율주행 시스템 반도체 설계원"
+  bio              : "michin ARC"
   location         : "대한민국, 경기"
   email            : "21-20931@hafs.hs.kr"
   links:
